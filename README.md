@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/sr7424153-sketch/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sr7424153-sketch/leetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sr7424153-sketch/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
