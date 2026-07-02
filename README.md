@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/sr7424153-sketch/leetcode/tree/master/0326-power-of-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/sr7424153-sketch/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sr7424153-sketch/leetcode/tree/master/0015-3sum) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sr7424153-sketch/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
