@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sr7424153-sketch/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/sr7424153-sketch/leetcode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sr7424153-sketch/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2460-apply-operations-to-an-array](https://github.com/sr7424153-sketch/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/sr7424153-sketch/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sr7424153-sketch/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sr7424153-sketch/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sr7424153-sketch/leetcode/tree/master/0283-move-zeroes) |
+| [2460-apply-operations-to-an-array](https://github.com/sr7424153-sketch/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sr7424153-sketch/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sr7424153-sketch/leetcode/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/sr7424153-sketch/leetcode/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
