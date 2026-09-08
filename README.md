@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sr7424153-sketch/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sr7424153-sketch/leetcode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sr7424153-sketch/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3870-count-commas-in-range](https://github.com/sr7424153-sketch/leetcode/tree/master/3870-count-commas-in-range) |
 ## Matrix
 |  |
 | ------- |
